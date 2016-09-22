@@ -1,5 +1,5 @@
 
-angular.module('jpkraemer.angularSignatureField').directive("signatureField", function ($document, $window) {
+angular.module('jpkraemer.angularSignatureField', []).directive("signatureField", function ($document, $window) {
 
   //Utility functions
   var Point = function (x,y) {
