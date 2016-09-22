@@ -23,7 +23,7 @@ For Ionic you would add:
 
 ## Use
 
-The important directive is `signatureField` implemented in `www/js/signature.js`. 
+The important directive is `signatureField`.
 It can be used like this: 
 
 ```
