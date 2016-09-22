@@ -1,0 +1,28 @@
+{
+  "name": "angular-signature-field",
+  "authors": [
+    "Jan-Peter Krämer <jpk@cs.rwth-aachen.de>"
+  ],
+  "description": "Angular directive for a simple Signature field based on an HTML canvas element.",
+  "main": "angular_signature_field.js",
+  "keywords": [
+    "Angular",
+    "Signature",
+    "Canvas",
+    "Draw",
+    "Write",
+    "Touch"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.1"
+  }
+}
